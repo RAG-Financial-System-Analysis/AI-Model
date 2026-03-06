@@ -1,0 +1,138 @@
+CÔNG TY CỔ PHẦN FPT
+BÁO CÁO TÀI CHÍNH Quý 1 Năm 2025
+
+============================================
+I. THÔNG TIN CHUNG
+============================================
+
+Tên công ty: CÔNG TY CỔ PHẦN FPT
+Mã chứng khoán: FPT
+Địa chỉ: Tòa nhà FPT, Lô 29B, Khu Công viên Phần mềm Quang Trung
+Điện thoại: (84-28) 3910 0123
+Email: ir@fpt.com.vn
+Website: www.fpt.com.vn
+
+Kỳ báo cáo: Quý 1/2025
+Ngày lập: 15/04/2025
+
+============================================
+II. BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH
+============================================
+
+CHỈ TIÊU                                    | QUÝ 1/2025  | QUÝ 1/2024  | TĂNG/GIẢM
+                                             | (Tỷ đồng)   | (Tỷ đồng)   | (%)
+---------------------------------------------|-------------|-------------|------------
+1. Doanh thu thuần                           | 12,450      | 10,230      | +21.7%
+   - Doanh thu Công nghệ                     | 6,890       | 5,620       | +22.6%
+   - Doanh thu Viễn thông                    | 4,120       | 3,450       | +19.4%
+   - Doanh thu Giáo dục                      | 1,440       | 1,160       | +24.1%
+
+2. Giá vốn hàng bán                          | 8,340       | 6,890       | +21.0%
+
+3. Lợi nhuận gộp                             | 4,110       | 3,340       | +23.1%
+
+4. Chi phí bán hàng                          | 1,230       | 1,020       | +20.6%
+
+5. Chi phí quản lý doanh nghiệp              | 920         | 780         | +17.9%
+
+6. Lợi nhuận từ hoạt động kinh doanh        | 1,960       | 1,540       | +27.3%
+
+7. Thu nhập tài chính                        | 120         | 95          | +26.3%
+
+8. Chi phí tài chính                         | 45          | 38          | +18.4%
+
+9. Lợi nhuận trước thuế                     | 2,035       | 1,597       | +27.4%
+
+10. Chi phí thuế TNDN                        | 407         | 319         | +27.6%
+
+11. Lợi nhuận sau thuế                      | 1,628       | 1,278       | +27.4%
+
+============================================
+III. BẢNG CÂN ĐỐI KẾ TOÁN (Rút gọn)
+============================================
+
+TÀI SẢN                                      | 31/03/2025  | 31/12/2024
+                                             | (Tỷ đồng)   | (Tỷ đồng)
+---------------------------------------------|-------------|-------------
+A. TÀI SẢN NGẮN HẠN                         | 24,560      | 23,120
+   - Tiền và tương đương tiền               | 8,340       | 7,890
+   - Các khoản đầu tư tài chính ngắn hạn   | 3,450       | 3,120
+   - Các khoản phải thu                      | 9,670       | 9,230
+   - Hàng tồn kho                            | 2,890       | 2,670
+   - Tài sản ngắn hạn khác                  | 210         | 210
+
+B. TÀI SẢN DÀI HẠN                          | 18,340      | 18,120
+   - Tài sản cố định                         | 12,450      | 12,560
+   - Các khoản đầu tư tài chính dài hạn     | 4,560       | 4,340
+   - Tài sản dài hạn khác                   | 1,330       | 1,220
+
+TỔNG TÀI SẢN                                | 42,900      | 41,240
+
+============================================
+
+NGUỒN VỐN                                    | 31/03/2025  | 31/12/2024
+                                             | (Tỷ đồng)   | (Tỷ đồng)
+---------------------------------------------|-------------|-------------
+A. NỢ PHẢI TRẢ                              | 21,340      | 20,560
+   - Nợ ngắn hạn                            | 16,230      | 15,670
+   - Nợ dài hạn                             | 5,110       | 4,890
+
+B. VỐN CHỦ SỞ HỮU                           | 21,560      | 20,680
+   - Vốn điều lệ                            | 15,120      | 15,120
+   - Lợi nhuận chưa phân phối               | 5,890       | 5,010
+   - Vốn chủ sở hữu khác                    | 550         | 550
+
+TỔNG NGUỒN VỐN                              | 42,900      | 41,240
+
+============================================
+IV. CÁC CHỈ SỐ TÀI CHÍNH QUAN TRỌNG
+============================================
+
+Chỉ số                                       | Quý 1/2025  | Quý 1/2024
+---------------------------------------------|-------------|-------------
+Tỷ suất lợi nhuận gộp (%)                   | 33.0%       | 32.6%
+Tỷ suất lợi nhuận ròng (%)                  | 13.1%       | 12.5%
+ROE (%)                                      | 7.6%        | 6.9%
+ROA (%)                                      | 3.8%        | 3.4%
+Hệ số nợ/Tổng tài sản                       | 0.50        | 0.52
+Hệ số thanh toán hiện hành                  | 1.51        | 1.48
+
+============================================
+V. NHẬN XÉT VÀ ĐÁNH GIÁ
+============================================
+
+Quý 1/2025 đánh dấu sự khởi đầu tích cực cho FPT với mức tăng trưởng 27.4% về lợi nhuận sau thuế so với cùng kỳ năm trước. Các mảng kinh doanh chủ chốt đều ghi nhận mức tăng trưởng ấn tượng:
+
+1. Mảng Công nghệ tiếp tục là động lực chính với tăng trưởng 22.6%
+2. Mảng Viễn thông tăng trưởng ổn định ở mức 19.4%
+3. Mảng Giáo dục có mức tăng trưởng cao nhất 24.1%
+
+Tình hình tài chính lành mạnh với:
+- Tỷ lệ nợ trên tổng tài sản duy trì ở mức an toàn 50%
+- Khả năng thanh toán tốt với hệ số thanh toán hiện hành 1.51
+- ROE cải thiện lên 7.6%, cho thấy hiệu quả sử dụng vốn tăng cao
+
+Công ty dự kiến sẽ tiếp tục duy trì đà tăng trưởng trong các quý tiếp theo nhờ:
+- Mở rộng thị trường quốc tế
+- Tăng cường đầu tư vào AI và Cloud Computing
+- Phát triển các dịch vụ số hóa cho doanh nghiệp
+
+============================================
+VI. THÔNG TIN BỔ SUNG
+============================================
+
+Số lượng cổ phiếu đang lưu hành: 1,512,000,000
+EPS (Thu nhập trên mỗi cổ phiếu): 1,077 đồng
+Giá cổ phiếu tại ngày 31/03/2025: 82,500 đồng
+P/E: 19.2x
+
+Cổ tức dự kiến năm 2025: 1,500 đồng/cổ phiếu (tỷ lệ 10%)
+
+---
+Người lập báo cáo: Nguyễn Văn A
+Chức vụ: Kế toán trưởng
+Ngày: 15/04/2025
+
+Người đại diện pháp luật: Trần Đăng Hòa
+Chức vụ: Tổng Giám đốc
+Ngày: 15/04/2025
